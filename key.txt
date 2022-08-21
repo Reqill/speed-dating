@@ -1,0 +1,7 @@
+This is where you should paste array of user info (name surname school class) that filled your form
+(ORDER MATTERS!) line 1 of this file should match line 1 of file codes.txt and first record in spreadsheet
+
+^^^ IMPORTANT ^^^
+
+eg. 
+Name<space>Surname<tab>School<tab>Class

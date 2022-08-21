@@ -1,0 +1,7 @@
+This is where you should paste array of user emails that filled your form
+(ORDER MATTERS!) line 1 of this file should match line 1 of file key.txt and first record in spreadsheet
+
+^^^ IMPORTANT ^^^
+
+eg.
+name.surname@school.domain.com
